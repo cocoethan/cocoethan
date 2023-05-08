@@ -6,6 +6,7 @@ I'm Ethan and here are a few things about me:
 - Earned a Bachelor's of Science degree in Computer Science from the University of North Florida
 - Co-owner and Developer of the <a href="https://github.com/AVRGloves">AVRGloves Project</a>
 - My personal website can be found at <a href="https://cocoethan.github.io">cocoethan.github.io</a>, where I discuss my current projects.
+If you have any questions or would like to connect, you can contact me at ethancoco2@outlook.com or through my social media accounts.
 ### Socials
 <a href="https://www.linkedin.com/in/ethan-coco-9989131b4/"><img src="./images/socials/linkedin_logo.png"></a>
 
