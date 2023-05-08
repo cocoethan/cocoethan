@@ -1,4 +1,5 @@
-### Hello there 👋,
+<!-- ### Hello there 👋, -->
+<picture><img src="./images/misc/hello-there.gif"></picture>
 - Software Developer based in Jacksonville, Florida
 - Earned a Bachelor's of Science degree in Computer Science from the University of North Florida
 - Co-owner and Developer of the <a href="https://github.com/AVRGloves">AVRGloves Project</a>
