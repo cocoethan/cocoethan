@@ -1,7 +1,7 @@
 <!-- ### Hello there 👋, -->
 <picture><img src="./images/misc/hello_there.gif" width="300px" height="100px"></picture> ,
 
-I'm Ethan and here are a few things about me:
+I'm Ethan and here are just a few things about me:
 - Software Developer based in Jacksonville, Florida
 - Earned a Bachelor's of Science degree in Computer Science from the University of North Florida
 - Co-owner and Developer of the <a href="https://github.com/AVRGloves">AVRGloves Project</a>
