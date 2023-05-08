@@ -4,5 +4,5 @@
 - Co-owner and Developer of the <a href="https://github.com/AVRGloves">AVRGloves Project</a>
 - My personal website can be found at <a href="https://cocoethan.github.io">cocoethan.github.io</a>, where I discuss my current projects.
 ### Socials
-
+<img src="./linkedin_logo.png">
 ### Languages and Tools
