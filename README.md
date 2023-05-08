@@ -1,8 +1,8 @@
 ### Hello there 👋,
 - Software Engineer based in Jacksonville, Florida
 - Earned a Bachelor's of Science degree in Computer Science from the University of North Florida
-- Co-owner and Developer of the <a href="https://github.com/AVRGloves" target="_blank">AVRGloves Project</a>
-- My personal website can be found at <a href="https://cocoethan.github.io/" target="_blank">cocoethan.github.io</a>, where I discuss my current projects.
+- Co-owner and Developer of the <a href="https://github.com/AVRGloves">AVRGloves Project</a>
+- My personal website can be found at [here](https://cocoethan.github.io), where I discuss my current projects.
 <!--
 **cocoethan/cocoethan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
