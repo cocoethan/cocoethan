@@ -1,5 +1,6 @@
 ### Hello there 👋,
-- Software Engineer based in Jacksonville, Florida.
+- Software Engineer based in Jacksonville, Florida
+- Co-owner of @AVRGloves
 
 <!--
 **cocoethan/cocoethan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
