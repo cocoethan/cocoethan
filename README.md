@@ -4,5 +4,5 @@
 <p>
 • Contact Me: <br>
 &emsp;‣ Email: ethancoco2@outlook.com <br>
-&emsp;‣ LinkedIn: <a href="https://www.linkedin.com/in/ethan-coco-9989131b4/">ethan-coco-9989131b4</a>
+&emsp;‣ LinkedIn: <a href="https://www.linkedin.com/in/ethan-coco-9989131b4/">linkedin.com/in/ethancoco</a>
 </p>
