@@ -1,6 +1,6 @@
 <!-- ### Hello there 👋, -->
-• Software Developer based in Jacksonville, Florida <br>
-• Earned a Bachelor's of Science degree in Computer Science from the University of North Florida
+• Software Developer based in Jacksonville, Florida 🐆<br>
+• Earned a Bachelor's of Science degree in Computer Science from the University of North Florida 🦅
 <p>
 • Contact Me: <br>
 &emsp;‣ Email: ethancoco2@outlook.com <br>
