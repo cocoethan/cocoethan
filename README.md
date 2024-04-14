@@ -6,5 +6,5 @@
 ## Contact Me:
 
 * Email: ethancoco2@outlook.com
-* LinkedIn: [linkedin.com/in/ethancoco]([https://www.linkedin.com/in/ethan-coco-9989131b4/])
+* LinkedIn: [linkedin.com/in/ethancoco](https://www.linkedin.com/in/ethan-coco-9989131b4/)
 
